@@ -1,0 +1,4 @@
+pandas>=2.0
+seaborn>=0.13
+matplotlib>=3.7
+jupyter>=1.0
